@@ -1,6 +1,8 @@
 ---
 title: New Sound
 date: 2018-05-21 22:19:00 Z
-is-free: 
+file: "/uploads/dixie-horn_daniel-simion.mp3"
+keycode: 70
+is-free: true
 ---
 
